@@ -5,7 +5,7 @@ package src;
 public class Adder extends Calculator{
     @Override
      /**
-     *  Adds the first parameter to the second parameter using the parents abstract method
+     *  Adds the left side operand to the right side operand using the parents abstract method
      * @param A the left side operand
      * @param B the right side operand
      * @throws exception if the right side operand equals zero (division by zero exception)
